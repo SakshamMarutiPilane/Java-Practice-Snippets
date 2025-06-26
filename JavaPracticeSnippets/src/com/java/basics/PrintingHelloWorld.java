@@ -6,5 +6,4 @@ public class PrintingHelloWorld {
 	{
 		System.out.println("Hello World!");
 	}
-
 }
